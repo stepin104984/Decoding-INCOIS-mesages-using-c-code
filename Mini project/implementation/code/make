@@ -1,0 +1,2 @@
+T1: m1.exe
+   gcc -o T1 m1.exe
